@@ -1,0 +1,20 @@
+🧱 Core Features
+  1. Player
+    name, level, health, attack, defense, xp (experience points), gold, inventory
+
+  2. Enemies
+    Randomly Generated in each area
+    name, health, attack, xp_reward, gold_reward
+
+  3. Objectives
+    Areas you explore become linearly harder as you progress
+
+    Explore -> Random Encounters (fight/find loot/rest)
+    Shop -> Buy Upgrades (Trader/Merchant)
+    Survive as long as possible, if you die, progress is Lost
+
+  4. Peristence
+    Game Is Saved and loadable
+
+  
+
